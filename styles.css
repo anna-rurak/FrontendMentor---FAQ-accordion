@@ -74,6 +74,7 @@ button {
 
 button:hover {
     color: #ad28eb;
+    cursor: pointer;
 }
 
 button h3 {

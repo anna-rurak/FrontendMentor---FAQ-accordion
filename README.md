@@ -8,9 +8,10 @@ Users should be able to:
 
 **Screenshots**
 Inactive state
+![Screenshot](inactive.png)
 
 Active state
-
+![Screenshot](active.png)
 
 **Built with**
 -   Semantic HTML5 markup
